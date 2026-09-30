@@ -37,50 +37,74 @@ Right now I lead mobile QA automation at **iKhokha, a Nedbank Group company**, o
 ![XCUITest](https://img.shields.io/badge/XCUITest-000000?style=flat-square&logo=apple&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662CE8?style=flat-square&logo=appium&logoColor=white)
+![Prefire](https://img.shields.io/badge/Prefire-F05138?style=flat-square)
+![Paparazzi](https://img.shields.io/badge/Paparazzi-3DDC84?style=flat-square)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-3DDC91?style=flat-square&logo=saucelabs&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
 **Web automation**
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Selenium Grid](https://img.shields.io/badge/Selenium%20Grid-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![CodeceptJS](https://img.shields.io/badge/CodeceptJS-5C2D91?style=flat-square)
 ![TestNG](https://img.shields.io/badge/TestNG-FF7F00?style=flat-square)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![TestRigor](https://img.shields.io/badge/TestRigor-1E88E5?style=flat-square)
 
-**API & contract testing**
+**API, contract & performance**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Pact](https://img.shields.io/badge/Pact-1F7AB8?style=flat-square)
 ![WireMock](https://img.shields.io/badge/WireMock-5A5A5A?style=flat-square)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
-**Languages**
+**Languages & databases**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**CI/CD, cloud & tools**
+**CI/CD, DevOps & cloud**
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+
+**Test management & reporting**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Xray](https://img.shields.io/badge/Xray-5E4DB2?style=flat-square)
+![AIO Tests](https://img.shields.io/badge/AIO%20Tests-2D6CDF?style=flat-square)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)
+![Zephyr](https://img.shields.io/badge/Zephyr-1E3A5F?style=flat-square)
+![Tuskr](https://img.shields.io/badge/Tuskr-6C3FC5?style=flat-square)
+![Allure](https://img.shields.io/badge/Allure-FF6A00?style=flat-square)
 
 **Accessibility & AI-assisted QA**
 ![WCAG](https://img.shields.io/badge/WCAG-005A9C?style=flat-square)
 ![VoiceOver](https://img.shields.io/badge/VoiceOver-000000?style=flat-square&logo=apple&logoColor=white)
 ![TalkBack](https://img.shields.io/badge/TalkBack-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-191919?style=flat-square)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+**Practices:** QE strategy · quality gates · release readiness & go/no-go · risk-based, exploratory & context-driven testing · shift-left & shift-right · failure injection, failover & degraded-mode testing · contract testing · service virtualisation · synthetic test data & masking · SAFe / Agile Release Train · PCI-DSS environments · manual, SIT, E2E, UAT & data migration testing
 
 ---
 
