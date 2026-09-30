@@ -42,6 +42,8 @@ Right now I lead mobile QA automation at **iKhokha, a Nedbank Group company**, o
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-3DDC91?style=flat-square&logo=saucelabs&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
 **Web automation**
@@ -82,6 +84,8 @@ Right now I lead mobile QA automation at **iKhokha, a Nedbank Group company**, o
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -104,7 +108,17 @@ Right now I lead mobile QA automation at **iKhokha, a Nedbank Group company**, o
 ![MCP](https://img.shields.io/badge/MCP-191919?style=flat-square)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
-**Practices:** QE strategy · quality gates · release readiness & go/no-go · risk-based, exploratory & context-driven testing · shift-left & shift-right · failure injection, failover & degraded-mode testing · contract testing · service virtualisation · synthetic test data & masking · SAFe / Agile Release Train · PCI-DSS environments · manual, SIT, E2E, UAT & data migration testing
+**Test suite engineering:** sharding & parallel execution · retry / rerun-failed strategies · flaky test debugging & test health tracking · nightly QA reporting · monorepo-aware test organisation · semantic locators & reusable test patterns · automated regression suite design
+
+**Data validation:** SQL query & performance tuning · schema & migration validation · data-integrity checks · test & production data validation · test data frameworks at scale · synthetic data & masking
+
+**AI-assisted QA:** agentic AI & intelligent test selection · GenAI for test design, coverage analysis, script generation & QA reporting
+
+**Quality governance:** QE & automation strategy · framework governance · quality gates · release readiness & go/no-go · entry/exit gate validation · vendor acceptance & UAT sign-off · RAID management · delivery confidence & OKR reporting · technical design review · PCI-DSS environments
+
+**Ways of working:** SAFe / Agile Release Train · Lean & Agile adoption · shift-left & shift-right · risk-based & context-driven testing · TDD · root-cause analysis & blameless post-mortems · failure injection, failover & degraded-mode testing · contract testing & service virtualisation · mentoring & code review
+
+**Test types:** manual & exploratory · test case design & prioritisation · functional & regression · SIT, E2E & business process · data migration · mobile web
 
 ---
 
